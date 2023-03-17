@@ -1,0 +1,44 @@
+.navbar{
+  width: 100%;
+  height:70px;
+}
+.navbar-nav{
+  font-family: serif;
+  font-size: 18px;
+}
+.nav-item{
+  padding-right: 2rem;
+}
+.icons{
+  align-items: left;
+}
+.journey{
+  margin-top: 30px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.skintype{
+  margin-top: 30px;
+  padding-right: 3rem;
+}
+.nav-item-journey{
+  font-family: sans-serif;
+}
+.large-container{
+  margin-top: 30px;
+
+}
+h5{
+    margin-top: 20px;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  .btn-primary{
+    margin-left: 70px;
+  }
+  .card-title{
+      font-size: 18px;
+      margin-left: auto;
+      color: rgb(51, 173, 255);
+      font-family: monospace;
+  }
